@@ -14,6 +14,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a73xq/proprietary/vendor/etc/audconf/OPEN/Headset_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/OPEN/Headset_cal.acdb \
     vendor/samsung/a73xq/proprietary/vendor/etc/audconf/OPEN/Speaker_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/OPEN/Speaker_cal.acdb \
     vendor/samsung/a73xq/proprietary/vendor/etc/audconf/OPEN/workspaceFile.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/audconf/OPEN/workspaceFile.qwsp \
+    vendor/samsung/a73xq/proprietary/vendor/libnfc-nxp_RF.conf:$(TARGET_COPY_OUT_VENDOR)/libnfc-nxp_RF.conf \
     vendor/samsung/a73xq/proprietary/vendor/etc/qdcm_calib_data_A73_S6E3FC3_AMB667BV01.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_A73_S6E3FC3_AMB667BV01.xml \
     vendor/samsung/a73xq/proprietary/vendor/etc/qdcm_calib_data_nt36672e_60_Hz_fhd_plus_video_mode_panel_without_DSC.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt36672e_60_Hz_fhd_plus_video_mode_panel_without_DSC.xml \
     vendor/samsung/a73xq/proprietary/vendor/etc/qdcm_calib_data_nt36672e_fhd_plus_120Hz_Video_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_nt36672e_fhd_plus_120Hz_Video_panel.xml \
@@ -138,6 +139,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a73xq/proprietary/vendor/lib/libegis_fp_normal_sensor_test.so:$(TARGET_COPY_OUT_VENDOR)/lib/libegis_fp_normal_sensor_test.so \
     vendor/samsung/a73xq/proprietary/vendor/lib/libgf_in_system_lib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgf_in_system_lib.so \
     vendor/samsung/a73xq/proprietary/vendor/lib/libqfp_sensortest.so:$(TARGET_COPY_OUT_VENDOR)/lib/libqfp_sensortest.so \
+    vendor/samsung/a73xq/proprietary/vendor/lib64/libsn100u_fw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsn100u_fw.so \
     vendor/samsung/a73xq/proprietary/vendor/lib/libsynaFpSensorTestNwd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsynaFpSensorTestNwd.so \
     vendor/samsung/a73xq/proprietary/vendor/lib64/camera/com.qti.eeprom.irs2381c_polar.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.irs2381c_polar.so \
     vendor/samsung/a73xq/proprietary/vendor/lib64/camera/com.qti.eeprom.sec2qcconversion.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.sec2qcconversion.so \
